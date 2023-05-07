@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PesonalTrainerApp/static/css/main.68c4b748.css",
+    "main.js": "/PesonalTrainerApp/static/js/main.ec8280a1.js",
+    "static/js/787.8f1d330c.chunk.js": "/PesonalTrainerApp/static/js/787.8f1d330c.chunk.js",
+    "index.html": "/PesonalTrainerApp/index.html",
+    "main.68c4b748.css.map": "/PesonalTrainerApp/static/css/main.68c4b748.css.map",
+    "main.ec8280a1.js.map": "/PesonalTrainerApp/static/js/main.ec8280a1.js.map",
+    "787.8f1d330c.chunk.js.map": "/PesonalTrainerApp/static/js/787.8f1d330c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68c4b748.css",
+    "static/js/main.ec8280a1.js"
+  ]
+}
