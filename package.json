@@ -1,7 +1,7 @@
 {
   "name": "personal_trainer_app",
   "version": "0.1.0",
-  "homepage": "https://arinasold.github.io/PesonalTrainerApp/",
+  "homepage": "https://arinasold.github.io/PesonalTrainingApp/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.0",
