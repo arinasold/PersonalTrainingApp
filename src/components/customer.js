@@ -22,7 +22,7 @@ export default function CustomerList() {
 
 
   const getCustomers = () => {
-    fetch("http://traineeapp.azurewebsites.net/api/customers")
+    fetch("https://traineeapp.azurewebsites.net/api/customers")
       .then(response => response.json())
       .then(data => setCustomers(data.content))
       .catch(err => console.error(err))
@@ -53,7 +53,7 @@ export default function CustomerList() {
     }])
 
   const addCustomer = (customer) => {
-    fetch('http://traineeapp.azurewebsites.net/api/customers', {
+    fetch('https://traineeapp.azurewebsites.net/api/customers', {
       method: 'POST',
       headers: { 'Content-type': 'application/json' },
       body: JSON.stringify(customer)
