@@ -19,6 +19,8 @@ function App() {
     setMenuOpen(!menuOpen);
   };
 
+  
+
   return (
     <div className="App">
       <BrowserRouter>
