@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PesonalTrainingApp/static/css/main.68c4b748.css",
-    "main.js": "/PesonalTrainingApp/static/js/main.6bf9b980.js",
-    "static/js/787.8f1d330c.chunk.js": "/PesonalTrainingApp/static/js/787.8f1d330c.chunk.js",
-    "index.html": "/PesonalTrainingApp/index.html",
-    "main.68c4b748.css.map": "/PesonalTrainingApp/static/css/main.68c4b748.css.map",
-    "main.6bf9b980.js.map": "/PesonalTrainingApp/static/js/main.6bf9b980.js.map",
-    "787.8f1d330c.chunk.js.map": "/PesonalTrainingApp/static/js/787.8f1d330c.chunk.js.map"
+    "main.css": "/PersonalTrainingApp/static/css/main.68c4b748.css",
+    "main.js": "/PersonalTrainingApp/static/js/main.e88a2767.js",
+    "static/js/787.8f1d330c.chunk.js": "/PersonalTrainingApp/static/js/787.8f1d330c.chunk.js",
+    "index.html": "/PersonalTrainingApp/index.html",
+    "main.68c4b748.css.map": "/PersonalTrainingApp/static/css/main.68c4b748.css.map",
+    "main.e88a2767.js.map": "/PersonalTrainingApp/static/js/main.e88a2767.js.map",
+    "787.8f1d330c.chunk.js.map": "/PersonalTrainingApp/static/js/787.8f1d330c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68c4b748.css",
-    "static/js/main.6bf9b980.js"
+    "static/js/main.e88a2767.js"
   ]
 }
